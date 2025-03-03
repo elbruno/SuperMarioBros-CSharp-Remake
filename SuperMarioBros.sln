@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.35821.62 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarioBros", "SuperMarioBros.csproj", "{A436BE31-D254-40E7-B44A-73C6557EA289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarioBros-CS-NEt9", "Net9\SuperMarioBros-CS-NEt9\SuperMarioBros-CS-NEt9.csproj", "{FCF82BAC-607A-40BF-8129-300FFE895890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A436BE31-D254-40E7-B44A-73C6557EA289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A436BE31-D254-40E7-B44A-73C6557EA289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A436BE31-D254-40E7-B44A-73C6557EA289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A436BE31-D254-40E7-B44A-73C6557EA289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF82BAC-607A-40BF-8129-300FFE895890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF82BAC-607A-40BF-8129-300FFE895890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF82BAC-607A-40BF-8129-300FFE895890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF82BAC-607A-40BF-8129-300FFE895890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E2A7A48-6C5B-4A11-AF1D-4889E466FA87}
+	EndGlobalSection
+EndGlobal
